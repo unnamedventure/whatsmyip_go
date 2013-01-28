@@ -6,4 +6,4 @@ Download [Go SDK](https://developers.google.com/appengine/docs/go/gettingstarted
 
 Run:
 
-`/path/to/google_appengine/dev_appserver.py myapp/`
+`/path/to/google_appengine/dev_appserver.py whatsmyipapp/`
